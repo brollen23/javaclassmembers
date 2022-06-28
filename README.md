@@ -9,5 +9,3 @@ The instructor's name is Scott Dossey
 * Bethany Rollen
 * Janeane Kim
 * Christina Barberes
-* Janeane Kim
-
